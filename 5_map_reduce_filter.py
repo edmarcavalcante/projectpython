@@ -70,7 +70,7 @@ def num_par (n):
 	else:
 		return False
 
-# agora eu criou um lista onde quero aplicar a função FILTER
+# agora eu crio um lista onde quero aplicar a função FILTER
 
 lista_filter = []
 # criei uma lista vazia e depois inclui 30 números nela.
