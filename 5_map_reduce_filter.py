@@ -6,7 +6,7 @@
 # FUNÇÃO MAP
 
 # Atenção: as funções MAP, REDUCE e FILTER são semelhantes, todas elas recebem 2 argumentos: uma função e uma sequência
-# EX: MAP (função, sequência), REDUCE (funação, sequência), FILTER (função, sequência)
+# EX: MAP (função, sequência), REDUCE (função, sequência), FILTER (função, sequência)
 
 # Primeiro criou-se uma lista com valores de temperatura em graus celsius
 celsius = [10, 15, 20, 30, 35, 40, 45, 50]
